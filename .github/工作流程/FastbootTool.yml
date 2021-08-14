@@ -5,8 +5,8 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://hugeota.d.miui.com/21.4.15/miui_ALIOTH_21.4.15_8f3a6c70dc_11.0.zip
-  ROM_Version: miui21.4.15
+  ROM_URL: https://123-6-15-1.ksyungslb.com/bigota.d.miui.com/21.8.10/miui_ALIOTH_21.8.10_3b33bf06dd_11.0.zip?ksy_gslb_referer=https%3A%2F%2Fxiaomirom.com%2F
+  ROM_Version: miui21.8.10
   TZ: Asia/Shanghai
 
 jobs:
